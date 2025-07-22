@@ -1,6 +1,6 @@
 Opencore Theme inspired for Tahoe using Liquid Glass
 
-Figma link: (https://www.figma.com/design/yQmG4Y1hzpiVzfgyA3yppJ/Hackintosh-Theme--BlurPixelX?node-id=1-1632&t=4OeKic8etLmCTdYC-1]
+Figma link: https://www.figma.com/design/yQmG4Y1hzpiVzfgyA3yppJ/Hackintosh-Theme--BlurPixelX?node-id=1-1632&t=4OeKic8etLmCTdYC-1
 
 Credit to velickovicdj for creating original icons and theme.
 
