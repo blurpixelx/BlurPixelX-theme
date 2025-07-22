@@ -1,5 +1,7 @@
 Opencore Theme inspired for Tahoe using Liquid Glass
 
+Figma link: https://github.com/velickovicdj/OpenCanopy-EnterTwilight
+
 Credit to velickovicdj for creating original icons and theme.
 
 Forked by BlurPixelX for customizing background image on figma and modifying icons using Liquid Glass.
