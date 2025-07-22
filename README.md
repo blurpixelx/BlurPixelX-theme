@@ -1,3 +1,5 @@
+<img width="3440" height="1440" alt="blurpixelx-theme" src="https://github.com/user-attachments/assets/04f29755-edd8-4ebc-b5c7-8888b2774f65" />
+
 Opencore Theme inspired for Tahoe using Liquid Glass
 
 Figma link: https://www.figma.com/design/yQmG4Y1hzpiVzfgyA3yppJ/Hackintosh-Theme--BlurPixelX?node-id=1-1632&t=4OeKic8etLmCTdYC-1
