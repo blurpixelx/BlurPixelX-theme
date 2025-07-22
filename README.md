@@ -28,5 +28,9 @@ Art board 2 is a mirror of art board 1. Do not modify Art board 2.
 You’ll need 1 and 2 (2x in size) in order to create a proper Background.icns
 
 Learn how to create icons for OC
+
+https://dortania.github.io/OpenCore-Legacy-Patcher/ICNS.html#custom-opencore-icons
+
 Original Theme Download: velickovicdj/EnterTwilight
+
 https://github.com/velickovicdj/OpenCanopy-EnterTwilight
