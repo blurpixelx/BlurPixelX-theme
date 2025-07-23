@@ -13,7 +13,7 @@ Not all icons have been curated. Only essentials.
 Resolution for specific monitor sizes is not defined. 
 You will have to export it to your proper resolution from your monitor. 
 Figma is pretty complex. I’ve modified the background to scale and adapt. 
-Shouldn’t be too hard to get the right size for you.Github Link
+Shouldn’t be too hard to get the right size for you.
 
 Modify the text fields with your hardware specs.
 
