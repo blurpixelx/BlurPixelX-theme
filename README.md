@@ -11,6 +11,18 @@ Forked by BlurPixelX for customizing background image on figma and modifying ico
 
 Not all icons have been curated. Only essentials.
 
+This script will convert all images to icons in your icnspack folder (Background-1.png + Background.png into Background.icns)
+
+```bash
+#!/bin/bash
+icons=("Background" "HardDrive" "BtnFocus" "Selected" "SetDefault" "Windows" "Selector" "Tool" "Shell" "AppleRecv")
+for name in "${icons[@]}"; do
+  echo "Packing $name.icns from $name-1.png and $name.png"
+  ./icnspack "$name.icns" "$name-1.png" "$name.png"
+done
+echo "✅ All icons have been packed."
+```
+
 Resolution for specific monitor sizes is not defined. 
 You will have to export it to your proper resolution from your monitor. 
 Figma is pretty complex. I’ve modified the background to scale and adapt. 
