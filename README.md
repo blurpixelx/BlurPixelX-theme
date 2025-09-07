@@ -1,3 +1,7 @@
+This Repo assumes you've created icons or themes for opencore. Resources to referenced documentation is listed below. Message me on reddit for help!
+
+BlurPixelX
+ 
 <img width="3440" height="1440" alt="blurpixelx-theme" src="https://github.com/user-attachments/assets/04f29755-edd8-4ebc-b5c7-8888b2774f65" />
 Please make your own copy - Do not request access to edit this one. Figma allows you to have your own local file.
 
